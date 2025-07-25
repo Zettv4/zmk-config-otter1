@@ -1,3 +1,5 @@
+name: zmk-keyboard-otter1
+
 build:
   settings:
     board_root: .
